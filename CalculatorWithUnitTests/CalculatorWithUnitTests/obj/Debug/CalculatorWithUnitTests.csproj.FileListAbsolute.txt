@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\CoderCamps\CalculatorWithUnitTests\CalculatorWithUnitTests\bin\Debug\CalculatorWithUnitTests.exe.config
+\\Mac\Home\Documents\CoderCamps\CalculatorWithUnitTests\CalculatorWithUnitTests\bin\Debug\CalculatorWithUnitTests.exe
+\\Mac\Home\Documents\CoderCamps\CalculatorWithUnitTests\CalculatorWithUnitTests\bin\Debug\CalculatorWithUnitTests.pdb
+\\Mac\Home\Documents\CoderCamps\CalculatorWithUnitTests\CalculatorWithUnitTests\obj\Debug\CalculatorWithUnitTests.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\CoderCamps\CalculatorWithUnitTests\CalculatorWithUnitTests\obj\Debug\CalculatorWithUnitTests.exe
+\\Mac\Home\Documents\CoderCamps\CalculatorWithUnitTests\CalculatorWithUnitTests\obj\Debug\CalculatorWithUnitTests.pdb

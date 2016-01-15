@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\CoderCamps\StopwatchExample\StopwatchExample\bin\Debug\StopwatchExample.exe.config
+\\Mac\Home\Documents\CoderCamps\StopwatchExample\StopwatchExample\obj\Debug\StopwatchExample.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\CoderCamps\StopwatchExample\StopwatchExample\bin\Debug\StopwatchExample.exe
+\\Mac\Home\Documents\CoderCamps\StopwatchExample\StopwatchExample\bin\Debug\StopwatchExample.pdb
+\\Mac\Home\Documents\CoderCamps\StopwatchExample\StopwatchExample\obj\Debug\StopwatchExample.exe
+\\Mac\Home\Documents\CoderCamps\StopwatchExample\StopwatchExample\obj\Debug\StopwatchExample.pdb

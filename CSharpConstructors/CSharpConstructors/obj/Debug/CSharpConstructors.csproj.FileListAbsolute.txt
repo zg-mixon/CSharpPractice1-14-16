@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\CoderCamps\CSharpConstructors\CSharpConstructors\bin\Debug\CSharpConstructors.exe.config
+\\Mac\Home\Documents\CoderCamps\CSharpConstructors\CSharpConstructors\bin\Debug\CSharpConstructors.exe
+\\Mac\Home\Documents\CoderCamps\CSharpConstructors\CSharpConstructors\bin\Debug\CSharpConstructors.pdb
+\\Mac\Home\Documents\CoderCamps\CSharpConstructors\CSharpConstructors\obj\Debug\CSharpConstructors.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\CoderCamps\CSharpConstructors\CSharpConstructors\obj\Debug\CSharpConstructors.exe
+\\Mac\Home\Documents\CoderCamps\CSharpConstructors\CSharpConstructors\obj\Debug\CSharpConstructors.pdb

@@ -1,0 +1,1 @@
+\\Mac\Home\Documents\CoderCamps\CSharpVersionTest\CSharpVersionTest\bin\Debug\CSharpVersionTest.exe.config

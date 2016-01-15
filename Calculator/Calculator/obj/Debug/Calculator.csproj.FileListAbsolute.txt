@@ -1,0 +1,1 @@
+\\Mac\Home\Documents\CoderCamps\Calculator\Calculator\bin\Debug\Calculator.exe.config

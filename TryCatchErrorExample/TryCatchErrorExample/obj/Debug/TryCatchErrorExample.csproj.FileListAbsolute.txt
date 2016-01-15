@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\CoderCamps\TryCatchErrorExample\TryCatchErrorExample\bin\Debug\TryCatchErrorExample.exe.config
+\\Mac\Home\Documents\CoderCamps\TryCatchErrorExample\TryCatchErrorExample\bin\Debug\TryCatchErrorExample.exe
+\\Mac\Home\Documents\CoderCamps\TryCatchErrorExample\TryCatchErrorExample\bin\Debug\TryCatchErrorExample.pdb
+\\Mac\Home\Documents\CoderCamps\TryCatchErrorExample\TryCatchErrorExample\obj\Debug\TryCatchErrorExample.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\CoderCamps\TryCatchErrorExample\TryCatchErrorExample\obj\Debug\TryCatchErrorExample.exe
+\\Mac\Home\Documents\CoderCamps\TryCatchErrorExample\TryCatchErrorExample\obj\Debug\TryCatchErrorExample.pdb

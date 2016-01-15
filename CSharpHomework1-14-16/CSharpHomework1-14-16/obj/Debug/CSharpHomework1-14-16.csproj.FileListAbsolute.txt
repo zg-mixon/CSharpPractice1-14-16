@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\CoderCamps\CSharpHomework1-14-16\CSharpHomework1-14-16\bin\Debug\CSharpHomework1-14-16.exe.config
+\\Mac\Home\Documents\CoderCamps\CSharpHomework1-14-16\CSharpHomework1-14-16\bin\Debug\CSharpHomework1-14-16.exe
+\\Mac\Home\Documents\CoderCamps\CSharpHomework1-14-16\CSharpHomework1-14-16\bin\Debug\CSharpHomework1-14-16.pdb
+\\Mac\Home\Documents\CoderCamps\CSharpHomework1-14-16\CSharpHomework1-14-16\obj\Debug\CSharpHomework1-14-16.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\CoderCamps\CSharpHomework1-14-16\CSharpHomework1-14-16\obj\Debug\CSharpHomework1-14-16.exe
+\\Mac\Home\Documents\CoderCamps\CSharpHomework1-14-16\CSharpHomework1-14-16\obj\Debug\CSharpHomework1-14-16.pdb
